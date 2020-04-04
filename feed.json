@@ -5,7 +5,7 @@
     "home_page_url": "https://rise-biz-id.github.io/rise-biz-id.github.io",
     "feed_url": "https://rise-biz-id.github.io/rise-biz-id.github.io/feed.json",
     "user_comment": "",
-    "icon": "https://rise-biz-id.github.io/rise-biz-id.github.io/media/website/rise-logo-v1-noframe-200.png",
+    "icon": "https://rise-biz-id.github.io/rise-biz-id.github.io/media/website/rise-logo-v1-frame-200.png",
     "author": {
         "name": "admin"
     },
@@ -14,7 +14,7 @@
             "id": "https://rise-biz-id.github.io/rise-biz-id.github.io/contact-us/",
             "url": "https://rise-biz-id.github.io/rise-biz-id.github.io/contact-us/",
             "title": "Contact Us",
-            "summary": "PT. RISE INFOBISNIS SEMESTA EKASOLUSI vOffice Suite A02, BSD Green Office Park 6 Sampora, Cisauk, Tangerang 15234, INDONESIA Contact us: info@rise.biz.id ",
+            "summary": "PT. RISE INFOBISNIS SEMESTA EKASOLUSI vOffice Suite A02, BSD Green Office Park&hellip;",
             "content_html": "<strong>PT. RISE INFOBISNIS SEMESTA EKASOLUSI</strong><br>vOffice Suite A02, BSD Green Office Park 6<br>Sampora, Cisauk, Tangerang 15234, INDONESIA<br><br>Contact us:<br><a href=\"mailto:info@rise.biz.id\">info@rise.biz.id</a><span style=\"font-size: large;\"><br></span>",
             "author": {
                 "name": "admin"
@@ -28,7 +28,7 @@
             "id": "https://rise-biz-id.github.io/rise-biz-id.github.io/our-services/",
             "url": "https://rise-biz-id.github.io/rise-biz-id.github.io/our-services/",
             "title": "Our Services",
-            "summary": " RETAIL AND MARKETING CONSULTING | BRAND &amp; PRODUCT ACTIVATION | BUSINESS PROCESS DEVELOPMENT RETAIL BUSINESS ANALYSIS | CUSTOMER LOYALTY &amp; ANALYSIS | MARKETING CAMPAIGN &amp; ANALYSIS DIGITAL MARKETING &amp; COMMUNICATION",
+            "summary": " RETAIL AND MARKETING CONSULTING | BRAND &amp; PRODUCT ACTIVATION | BUSINESS PROCESS DEVELOPMENT RETAIL BUSINESS&hellip;",
             "content_html": "<p><img class=\"post__image post__image--center\" src=\"https://rise-biz-id.github.io/rise-biz-id.github.io/media/posts/2/RISE-service-graph2.png\" alt=\"RISE Solutions Services\" width=\"1280\" height=\"853\"></p>\n<p class=\"align-center\">RETAIL AND MARKETING CONSULTING <span style=\"color: red;\">|</span> BRAND &amp; PRODUCT ACTIVATION <span style=\"color: red;\">|</span> BUSINESS PROCESS DEVELOPMENT<br>RETAIL BUSINESS ANALYSIS <span style=\"color: red;\">|</span> CUSTOMER LOYALTY &amp; ANALYSIS <span style=\"color: red;\">|</span> MARKETING CAMPAIGN &amp; ANALYSIS<br>DIGITAL MARKETING &amp; COMMUNICATION</p>",
             "author": {
                 "name": "admin"
@@ -42,7 +42,7 @@
             "id": "https://rise-biz-id.github.io/rise-biz-id.github.io/about-us/",
             "url": "https://rise-biz-id.github.io/rise-biz-id.github.io/about-us/",
             "title": "About Us",
-            "summary": "We are business consultant and technology solutions provider specializing in retail, marketing, customer engagement, branding, and business analytics. Founded in 2014, with over 19 years of worldwide experience in various roles and combined with our extensive expertise in the retail industry, in business, operations, and technology,&hellip;",
+            "summary": "We are business consultant and technology solutions provider specializing in retail, marketing,&hellip;",
             "content_html": "<p>We are business consultant and technology solutions provider specializing in retail, marketing, customer engagement, branding, and business analytics.</p>\n<p>Founded in 2014, with over 19 years of worldwide experience in various roles and combined with our extensive expertise in the retail industry, in business, operations, and technology, this creates <strong><span style=\"text-decoration: underline;\">our unique proposition</span></strong> to better understand your business challenges and development by providing the right solutions. Thus providing better value-added benefits for your business.</p>\n<p><i>We speak your language. We plan, execute, and deliver.</i></p>",
             "author": {
                 "name": "admin"
